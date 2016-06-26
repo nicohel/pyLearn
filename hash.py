@@ -5,4 +5,5 @@ def hash_string(keyword, size):
     position = position % size
     return position
 
-print hash_string('udacity', 1000)
+print(hash_string('udacity', 1000))
+print('This is a change')
